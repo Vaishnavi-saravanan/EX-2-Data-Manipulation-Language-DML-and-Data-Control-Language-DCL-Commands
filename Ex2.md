@@ -132,19 +132,21 @@ ORDER BY deptno ASC, salary DESC;
 
 ### Q14) Find maximum, minimum and average salary in EMP table.
 ### QUERY:
-# MAXIMUM
 SELECT MAX(salary) AS MaximumSalary
 FROM manager;
+SELECT MIN(salary) AS MinimumSalary
+FROM manager;
+SELECT MIN(salary) AS MinimumSalary
+FROM manager;
+# MAXIMUM
+
 ![Screenshot 2023-09-25 211716](https://github.com/Vaishnavi-saravanan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118541897/cbb91cc8-019d-483c-9165-7bace64616c7)
 
 # MINIMUM
-SELECT MIN(salary) AS MinimumSalary
-FROM manager;
 ![Screenshot 2023-09-25 211749](https://github.com/Vaishnavi-saravanan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118541897/6303c91f-5c22-4ba6-ba38-aa4e12e9601f)
 
 # AVERAGE
-SELECT AVG(salary) AS AverageSalary
-FROM manager;
+
 ![Screenshot 2023-09-25 213816](https://github.com/Vaishnavi-saravanan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118541897/84096834-1a9b-4d60-af3c-d3dd203f78db)
 
 
