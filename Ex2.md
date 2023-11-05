@@ -161,3 +161,6 @@ GROUP BY designation
 ORDER BY num_employees DESC;
 ### OUTPUT:
 ![Screenshot 2023-09-25 211942](https://github.com/Vaishnavi-saravanan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118541897/f565d325-6c0c-4dff-9aa0-6792060de1f1)
+# RESULT:
+Thus this program executed successfully.
+
